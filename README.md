@@ -68,3 +68,10 @@ Write a short, keyword-rich introduction:
 - Fuel, tolls, etc.  
 
 ---
+
+---
+
+## Related Repositories / Links
+
+- [werent-car-rental-kutaisi](https://github.com/WeRent-Georgia/werent-car-rental-kutaisi)  
+- [werent-car-rental-batumi](https://github.com/WeRent-Georgia/werent-car-rental-batumi)  
